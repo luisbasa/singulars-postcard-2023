@@ -2,19 +2,54 @@
 body{
     background-color: black;
     font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    align-content: center;
+    justify-content: center;
 
 }
 
 section{
-    margin:auto;
     background-color: white;
-    height: 500px;
-    width: 400px;
-    padding: 15px 15px 45px 15px;
+    height: 350px;
+    width: 500px;
+    padding: 0px 15px 45px 15px;
+    margin-top: 20vh;
+
 
 }
 
 h1 {
-    font-size: 20px;
+    font-size: 30px;
     line-height: 20px;
+    margin-right: 50%;
+    padding-top: 25px;
+    margin-top: 10px;
+}
+
+.capçalera{
+    min-height: 60px;
+    background: url(https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/4geeks.png?raw=true) top right no-repeat;
+    background-size: 60px;
+    margin-top: none;
+}
+
+.mig{
+    justify-content: center;
+}
+
+#Parrafo{
+    width: 45%;
+    display: inline-block;
+}
+
+form{
+    width: 35%;
+    display: inline-block;
+    margin-left: auto;
+    
+}
+
+button{
+    display: flex;
+    text-align: center;
 }
