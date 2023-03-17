@@ -27,10 +27,13 @@ There is a video about this exercise, watch it if you are lost. But don't copy e
 1. Use the [Lato Google Font](https://fonts.google.com/specimen/Lato) for all the document, or any other Google Font you like
 2. When we hover the button element, change its background color to something different, or any other CSS change.
 
-## Pair Programming
+## Pair Programming 
 
 1. One of the student will start acting as a driver.
 2. Only that student must fork this repostory
 3. You must add your partner to be able to write in your repo - [Video](https://github.com/breatheco-de/exercise-collaborative-html-website/blob/master/iOBmU5zYqA.gif)
 4. You MUST make an scheme of the Website by drawing boxes before starting to code. You could name it **schema.jpg** and save it in this directory.
 5. After some time, you should change roles with your partner.
+  1. The driver must commit the code to with git
+  2. Push the changes to GitHub
+  3. Then the new driver will clone the repo and continue the exercise
